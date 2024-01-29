@@ -6,7 +6,7 @@ Here is a markdown table with Farcaster handles for the Starknet Builders:
 | -------------- | ---------------------------------------------------------- |
 | Abdel          | [@abdel](https://warpcast.com/abdel)                       |
 | Tom            | [@brand](https://warpcast.com/brand)                       |
-| Oli            | [@odin-free](https://warpcast.com/odin-free)               |
+| Oli            | [@od1n-fr33](https://warpcast.com/0d1n-fr33)               |
 | Gal            | [@gal](https://warpcast.com/gal)                           |
 | Louis          | [@guthl](https://warpcast.com/guthl)                       |
 | Scott          | [@pscott](https://warpcast.com/pscott)                     |
