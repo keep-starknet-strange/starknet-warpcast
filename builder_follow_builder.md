@@ -53,6 +53,8 @@ Here is a markdown table with Farcaster handles for the Starknet Builders:
 | Okhai          | [@okhai](https://warpcast.com/okhai)                       |
 | Akashneelesh   | [@akashneelesh](https://warpcast.com/akashneelesh)         |
 | Harsh          | [@bajpaiharsh](https://warpcast.com/bajpaiharsh)           |
+| Eli Ben-Sasson | [@elistark](https://warpcast.com/elistark)                 |
+| Maxime         | [@maximeservais](https://warpcast.com/maximeservais)       |
 | Axel           | [@delaaxe](https://warpcast.com/delaaxe)                   |
 | Ivan           | [@ivpavici](https://warpcast.com/ivpavici)                 |
 | DecolGenLabs   | [@decolgen](https://warpcast.com/decolgen)                 |
