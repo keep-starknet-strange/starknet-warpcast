@@ -48,4 +48,5 @@ Here is a markdown table with Farcaster handles for the Starknet Builders:
 | Ahmet          | [@ahmetoznar-stark](https://warpcast.com/ahmetoznar-stark) |
 | Feltroid Prime | [@feltroidprime](https://warpcast.com/feltroidprime)       |
 | Dennis         | [@denniswon](https://warpcast.com/denniswon)               |
+| Apoorv         | [@apoorv](https://warpcast.com/apoorv)                     |
 | Marek          | [@marek314](https://warpcast.com/marek314)                 |
