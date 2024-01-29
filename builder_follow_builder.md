@@ -1,6 +1,6 @@
 # Starknet builders on Warpcast
 
-Here is a markdown table with Farcaster handles for the StarkNet Builders and StarkWare:
+Here is a markdown table with Farcaster handles for the Starknet Builders:
 
 | Name           | Farcaster Handle  |
 | -------------- | ----------------- |
