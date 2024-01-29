@@ -54,3 +54,4 @@ Here is a markdown table with Farcaster handles for the Starknet Builders:
 | Akashneelesh   | [@akashneelesh](https://warpcast.com/akashneelesh)         |
 | Harsh          | [@bajpaiharsh](https://warpcast.com/bajpaiharsh)           |
 | Ivan           | [@ivpavici](https://warpcast.com/ivpavici)                 |
+| DecolGenLabs   | [@decolgen](https://warpcast.com/decolgen)                 |
