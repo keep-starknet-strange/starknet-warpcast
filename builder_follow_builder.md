@@ -50,3 +50,4 @@ Here is a markdown table with Farcaster handles for the Starknet Builders:
 | Dennis         | [@denniswon](https://warpcast.com/denniswon)               |
 | Apoorv         | [@apoorv](https://warpcast.com/apoorv)                     |
 | Marek          | [@marek314](https://warpcast.com/marek314)                 |
+| Harsh          | [@bajpaiharsh](https://warpcast.com/bajpaiharsh)           |
