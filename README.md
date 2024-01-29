@@ -1,9 +1,11 @@
 # Starknet Warpcast
 
 <div align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Starknet-blue?style=plastic&label=Warpcast&link=https%3A%2F%2Fwarpcast.com%2F~%2Fchannel%2Fstarknet" height=30>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/StarkWare-blue?style=plastic&label=Warpcast&link=https%3A%2F%2Fwarpcast.com%2Fstarkwareltd" height=30>
+<a href="https://warpcast.com/~/channel/starknet"><img alt="Static Badge" src="https://img.shields.io/badge/Starknet-blue?style=plastic&label=Warpcast&link=https%3A%2F%2Fwarpcast.com%2F~%2Fchannel%2Fstarknet" height=30></a>
+
+<a href="https://warpcast.com/starkwareltd">
+<img alt="Static Badge" src="https://img.shields.io/badge/StarkWare-blue?style=plastic&label=Warpcast&link=https%3A%2F%2Fwarpcast.com%2Fstarkwareltd" height=30></a>
 
 </div>
 
