@@ -18,3 +18,4 @@ See [README.md](frames/README.md).
 
 - [Coinbase Onchain Kit and Frame kit](https://github.com/coinbase/onchainkit)
 - [Farcaster Frames docs](https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5)
+- [Neynar Farcaster Developer Hub](https://docs.neynar.com/)
