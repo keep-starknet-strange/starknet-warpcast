@@ -5,7 +5,7 @@ Here is a markdown table with Farcaster handles for the Starknet Builders:
 | Name           | Farcaster Handle                                           |
 | -------------- | ---------------------------------------------------------- |
 | Abdel          | [@abdel](https://warpcast.com/abdel)                       |
-| Avihu          | [@avihu28](https://warpcast.com/avihu28)                       |
+| Avihu          | [@avihu28](https://warpcast.com/avihu28)                   |
 | Tom            | [@brand](https://warpcast.com/brand)                       |
 | Oli            | [@od1n-fr33](https://warpcast.com/0d1n-fr33)               |
 | Gal            | [@gal](https://warpcast.com/gal)                           |
@@ -63,3 +63,4 @@ Here is a markdown table with Farcaster handles for the Starknet Builders:
 | Godspower      | [@godspower](https://warpcast.com/godspower)               |
 | Zack           | [@presorts](https://warpcast.com/presorts)                 |
 | Asten          | [@asten](https://warpcast.com/asten)                       |
+| Pia Park       | [@piapark-eth](https://warpcast.com/piapark-eth)           |
