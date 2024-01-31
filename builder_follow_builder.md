@@ -61,4 +61,5 @@ Here is a markdown table with Farcaster handles for the Starknet Builders:
 | DecolGenLabs   | [@decolgen](https://warpcast.com/decolgen)                 |
 | Roman (walnut) | [@romanm](https://warpcast.com/romanm)                     |
 | Godspower      | [@godspower](https://warpcast.com/godspower)               |
+| Zack           | [@presorts](https://warpcast.com/presorts)                 |
 | Asten          | [@asten](https://warpcast.com/asten)                       |
