@@ -1,0 +1,22 @@
+{
+  "name": "warpcast-profile-indexer-starknet-frens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-chrome": "npx puppeteer browsers install chrome",
+    "serve": "node src/server.js",
+    "build": "npm run install-chrome && npm run serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "puppeteer": "^21.9.0"
+  }
+}
