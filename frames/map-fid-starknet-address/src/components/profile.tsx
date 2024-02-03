@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import { useAccount, useConnect, useDisconnect } from "@starknet-react/core";
 import { useStarknetkitConnectModal } from "starknetkit";
-import Image from "next/image";
 import Link from "next/link";
 
 export default function Home() {
@@ -139,7 +138,7 @@ const ProfileCard = ({ profileData }: any) => {
         )}
 
       {profileData.pfp && (
-        <Image
+        <img
           src={profileData.pfp}
           alt="Profile"
           width={100}
