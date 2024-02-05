@@ -63,5 +63,6 @@ Here is a markdown table with Farcaster handles for the Starknet Builders:
 | Godspower      | [@godspower](https://warpcast.com/godspower)               |
 | Zack           | [@presorts](https://warpcast.com/presorts)                 |
 | Asten          | [@asten](https://warpcast.com/asten)                       |
+| dsi            | [@asten](https://warpcast.com/mkdir)                       |
 | Lambda         | [@0xlambda](https://warpcast.com/0xlambda)                 |
 | Glihm          | [@glihm](https://warpcast.com/glihm)                       |
