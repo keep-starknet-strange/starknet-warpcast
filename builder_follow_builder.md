@@ -63,6 +63,7 @@ Here is a markdown table with Farcaster handles for the Starknet Builders:
 | Godspower      | [@godspower](https://warpcast.com/godspower)               |
 | Zack           | [@presorts](https://warpcast.com/presorts)                 |
 | Asten          | [@asten](https://warpcast.com/asten)                       |
+| Ramzi          | [@rmz](https://warpcast.com/rmz)                           |
 | Prince         | [@princearora](https://warpcast.com/princearora)           |
 | Pia Park       | [@piapark-eth](https://warpcast.com/piapark-eth)           |
 | dsi            | [@asten](https://warpcast.com/mkdir)                       |
