@@ -63,6 +63,7 @@ Here is a markdown table with Farcaster handles for the Starknet Builders:
 | Godspower      | [@godspower](https://warpcast.com/godspower)               |
 | Zack           | [@presorts](https://warpcast.com/presorts)                 |
 | Asten          | [@asten](https://warpcast.com/asten)                       |
+| Nestor          | [@0xnestor](https://warpcast.com/0xnestor)                |
 | Jelilat        | [@tjelailah](https://warpcast.com/tjelailah)               |
 | Ramzi          | [@rmz](https://warpcast.com/rmz)                           |
 | Prince         | [@princearora](https://warpcast.com/princearora)           |
