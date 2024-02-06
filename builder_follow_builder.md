@@ -72,4 +72,5 @@ Here is a markdown table with Farcaster handles for the Starknet Builders:
 | dsi            | [@asten](https://warpcast.com/mkdir)                       |
 | Lambda         | [@0xlambda](https://warpcast.com/0xlambda)                 |
 | Glihm          | [@glihm](https://warpcast.com/glihm)                       |
+| Oak            | [@droak](https://warpcast.com/droak)                       |
 | Robert         | [@robertkp](https://warpcast.com/robertkp)                 |
