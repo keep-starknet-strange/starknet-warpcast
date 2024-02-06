@@ -64,7 +64,7 @@ Here is a markdown table with Farcaster handles for the Starknet Builders:
 | Zack           | [@presorts](https://warpcast.com/presorts)                 |
 | Asten          | [@asten](https://warpcast.com/asten)                       |
 | Holly          | [@hollyr.eth](https://warpcast.com/hollyr.eth)             |
-| Nestor          | [@0xnestor](https://warpcast.com/0xnestor)                |
+| Nestor         | [@0xnestor](https://warpcast.com/0xnestor)                 |
 | Jelilat        | [@tjelailah](https://warpcast.com/tjelailah)               |
 | Ramzi          | [@rmz](https://warpcast.com/rmz)                           |
 | Prince         | [@princearora](https://warpcast.com/princearora)           |
@@ -72,3 +72,4 @@ Here is a markdown table with Farcaster handles for the Starknet Builders:
 | dsi            | [@asten](https://warpcast.com/mkdir)                       |
 | Lambda         | [@0xlambda](https://warpcast.com/0xlambda)                 |
 | Glihm          | [@glihm](https://warpcast.com/glihm)                       |
+| Robert         | [@robertkp](https://warpcast.com/robertkp)                 |
