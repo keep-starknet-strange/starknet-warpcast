@@ -75,3 +75,4 @@ Here is a markdown table with Farcaster handles for the Starknet Builders:
 | Glihm          | [@glihm](https://warpcast.com/glihm)                       |
 | Oak            | [@droak](https://warpcast.com/droak)                       |
 | Robert         | [@robertkp](https://warpcast.com/robertkp)                 |
+| Hugo           | [@hugo0x18](https://warpcast.com/hugo0x18)                 |
